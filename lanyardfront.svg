@@ -1654,11 +1654,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5224284"
-     inkscape:cx="364.02674"
-     inkscape:cy="444.23438"
+     inkscape:zoom="0.28503676"
+     inkscape:cx="223.55193"
+     inkscape:cy="829.60458"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="719"
@@ -1757,72 +1757,848 @@
        inkscape:groupmode="layer"
        id="layer22"
        inkscape:label="20 - Winter Gdns Lane Entry Marshal"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-10-2">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-3-1">
+          <g
+             id="g547-04-5">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-4-9"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-4-9"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-4-1"
+                 sodipodi:role="line">20</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-7-4">
+          <path
+             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-6-9"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-172.63451"
+             y="213.84874"
+             id="text11379-5-31-1"><tspan
+               sodipodi:role="line"
+               x="-172.63451"
+               y="213.84874"
+               style="font-weight:bold;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-7-0">MARSHAL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-59-7"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan11419-1-62-5">WINTER GARDENS</tspan><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="247.05171"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2303-8">LANE ENTRY</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer21"
        inkscape:label="19 - Barcode Scanning #3"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g1644-8-9">
+        <g
+           transform="translate(0,-87.000001)"
+           id="g1573-8-6">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1565-9-9"
+             d="M 0.25042896,230.92847 V 297.3522 H 147.74957 v -66.42373 z"
+             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text1571-7-3"
+             y="256.95642"
+             x="73.094528"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             xml:space="preserve"><tspan
+               id="tspan1569-7-3"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               y="256.95642"
+               x="73.094528"
+               sodipodi:role="line">BARCODE</tspan><tspan
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               y="288.28085"
+               x="73.094528"
+               sodipodi:role="line"
+               id="tspan1704-6-8">SCANNER</tspan></text>
+        </g>
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-2-4-0"
+           style="display:inline">
+          <g
+             id="g547-0-30-5">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-2-3-6"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-3-0-6"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-7-9-4"
+                 sodipodi:role="line">19</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer20"
        inkscape:label="18 - Funnel Marshal #2"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-1-6-4">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-0-2-22">
+          <g
+             id="g547-6-8-2">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-1-4-0"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-5-7-5"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-9-2-5"
+                 sodipodi:role="line">18</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-4-4-2">
+          <path
+             style="opacity:1;vector-effect:none;fill:#e580ff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-9-0-9"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-172.63451"
+             y="213.84874"
+             id="text11379-5-0-6-0"><tspan
+               sodipodi:role="line"
+               x="-172.63451"
+               y="213.84874"
+               style="font-weight:bold;fill:#f2f2f2;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-9-2-2">MARSHAL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-1-9-8"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2205-0-3">FINISH</tspan><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="247.05171"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2835-8">FUNNEL</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer19"
        inkscape:label="17 - Jetty Exit Marshal"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-1-6-7">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-0-2-2">
+          <g
+             id="g547-6-8-8">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-1-4-2"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-5-7-9"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-9-2-9"
+                 sodipodi:role="line">17</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-4-4-6">
+          <path
+             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-9-0-0"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-172.63451"
+             y="213.84874"
+             id="text11379-5-0-6-2"><tspan
+               sodipodi:role="line"
+               x="-172.63451"
+               y="213.84874"
+               style="font-weight:bold;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-9-2-7">MARSHAL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-1-9-6"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2205-0-13">JETTY</tspan><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="247.05171"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2831">EXIT</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer18"
        inkscape:label="16 - Number Checker"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2134-3-0">
+        <g
+           id="g1583-9-0"
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)">
+          <g
+             id="g1581-4-4">
+            <circle
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle1575-8-6"
+               cx="253.5903"
+               cy="-45.852886"
+               r="9.3835449" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               x="245.5327"
+               y="-41.408234"
+               id="text1579-1-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan1577-2-6"
+                 x="245.5327"
+                 y="-41.408234"
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336">16</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g2122-9-7">
+          <path
+             style="opacity:1;vector-effect:none;fill:#ff00ff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 0.25042948,143.92846 v 66.42373 H 147.74957 v -66.42373 z"
+             id="rect11381-0-3-3-5"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="73.358521"
+             y="168.80927"
+             id="text11379-6-1-9-6"><tspan
+               sodipodi:role="line"
+               x="73.358521"
+               y="168.80927"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan2191-8">NUMBER</tspan><tspan
+               sodipodi:role="line"
+               x="73.358521"
+               y="200.1337"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan2781">CHECKER</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer17"
        inkscape:label="15 - Funnel Marshal #1"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-1-6">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-0-2">
+          <g
+             id="g547-6-8">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-1-4"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-5-7"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-9-2"
+                 sodipodi:role="line">15</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-4-4">
+          <path
+             style="opacity:1;vector-effect:none;fill:#e580ff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-9-0"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-172.63451"
+             y="213.84874"
+             id="text11379-5-0-6"><tspan
+               sodipodi:role="line"
+               x="-172.63451"
+               y="213.84874"
+               style="font-weight:bold;fill:#f2f2f2;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-9-2">MARSHAL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-1-9"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2205-0">FINISH</tspan><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="247.05171"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2835">FUNNEL</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer16"
        inkscape:label="14 - Jetty End Marshal"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-8-1">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-5-1">
+          <g
+             id="g547-09-0">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-63-8"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-8-5"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-56-0"
+                 sodipodi:role="line">14</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-1-6">
+          <path
+             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-1-4"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-172.63451"
+             y="213.84874"
+             id="text11379-5-5-6"><tspan
+               sodipodi:role="line"
+               x="-172.63451"
+               y="213.84874"
+               style="font-weight:bold;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-98-2">MARSHAL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-4-5"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan11419-1-8-8">JETTY END</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer15"
        inkscape:label="13 - Finish Token Support"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-75">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-4">
+          <g
+             id="g547-8">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-12"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-89"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-3"
+                 sodipodi:role="line">13</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-68">
+          <path
+             style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-0"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-150.73799"
+             y="213.84874"
+             id="text11379-5-2"><tspan
+               sodipodi:role="line"
+               x="-150.73799"
+               y="213.84874"
+               style="font-weight:bold;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-1">FINISH</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-0"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan11419-1-5">TOKEN SUPPORT</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer14"
        inkscape:label="12 - Finish Tokens #2"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g1793-2-2">
+        <g
+           id="g1583-0-5"
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)">
+          <g
+             id="g1581-6-4">
+            <circle
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle1575-1-0"
+               cx="253.5903"
+               cy="-45.852886"
+               r="9.3835449" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               x="245.5327"
+               y="-41.408234"
+               id="text1579-5-59"><tspan
+                 sodipodi:role="line"
+                 id="tspan1577-5-4"
+                 x="245.5327"
+                 y="-41.408234"
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336">12</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g1504-6-9-4-6"
+           transform="translate(0,-87.000006)"
+           style="display:inline">
+          <path
+             style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 0.25042896,230.92847 V 297.3522 H 147.74957 v -66.42373 z"
+             id="rect11381-0-3-7-9"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="73.094528"
+             y="256.95642"
+             id="text11379-6-1-6-2"><tspan
+               id="tspan1751-6-2"
+               sodipodi:role="line"
+               x="73.094528"
+               y="256.95642"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875">FINISH</tspan><tspan
+               sodipodi:role="line"
+               x="73.094528"
+               y="288.28085"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan1842-47">TOKENS</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer13"
        inkscape:label="11 - Barcode Scanner # 2"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g1644-8">
+        <g
+           transform="translate(0,-87.000001)"
+           id="g1573-8">
+          <path
+             inkscape:connector-curvature="0"
+             id="path1565-9"
+             d="M 0.25042896,230.92847 V 297.3522 H 147.74957 v -66.42373 z"
+             style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text1571-7"
+             y="256.95642"
+             x="73.094528"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             xml:space="preserve"><tspan
+               id="tspan1569-7"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               y="256.95642"
+               x="73.094528"
+               sodipodi:role="line">BARCODE</tspan><tspan
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               y="288.28085"
+               x="73.094528"
+               sodipodi:role="line"
+               id="tspan1704-6">SCANNER</tspan></text>
+        </g>
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-2-4"
+           style="display:inline">
+          <g
+             id="g547-0-30">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-2-3"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-3-0"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-7-9"
+                 sodipodi:role="line">11</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer12"
        inkscape:label="10 - Funnel Manager"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2134-1">
+        <g
+           id="g1583-8"
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)">
+          <g
+             id="g1581-9">
+            <circle
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle1575-6"
+               cx="253.5903"
+               cy="-45.852886"
+               r="9.3835449" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               x="245.5327"
+               y="-41.408234"
+               id="text1579-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan1577-3"
+                 x="245.5327"
+                 y="-41.408234"
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336">10</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g2122-3">
+          <path
+             style="opacity:1;vector-effect:none;fill:#e580ff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 0.25042948,143.92846 v 66.42373 H 147.74957 v -66.42373 z"
+             id="rect11381-0-3-38"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="73.358521"
+             y="168.80927"
+             id="text11379-6-1-60"><tspan
+               id="tspan1751-8"
+               sodipodi:role="line"
+               x="73.358521"
+               y="168.80927"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.62648875">FUNNEL</tspan><tspan
+               sodipodi:role="line"
+               x="73.358521"
+               y="200.1337"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#f2f2f2;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan2400">MANAGER</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="09 - Winter Gdns Lane Exit Marshal"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-10">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-3">
+          <g
+             id="g547-04">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-4"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-4"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-4"
+                 sodipodi:role="line">09</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-7">
+          <path
+             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-6"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-172.63451"
+             y="213.84874"
+             id="text11379-5-31"><tspan
+               sodipodi:role="line"
+               x="-172.63451"
+               y="213.84874"
+               style="font-weight:bold;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-7">MARSHAL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-59"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan11419-1-62">WINTER GARDENS</tspan><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="247.05171"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2303">LANE EXIT</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer10"
        inkscape:label="08 - Far End Marshal"
-       style="display:none" />
+       style="display:none">
+      <g
+         style="display:inline"
+         id="g2018-8">
+        <g
+           transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
+           id="g12670-5">
+          <g
+             id="g547-09">
+            <circle
+               r="9.3835449"
+               cy="-45.852886"
+               cx="253.5903"
+               id="path12047-63"
+               style="opacity:1;vector-effect:none;fill:#ff27d3;fill-opacity:1;stroke:#3e3f75;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               id="text12654-8"
+               y="-41.408234"
+               x="245.5327"
+               style="font-style:normal;font-weight:normal;font-size:12.21013451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30525336"
+               xml:space="preserve"><tspan
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.30525336"
+                 y="-41.408234"
+                 x="245.5327"
+                 id="tspan12652-56"
+                 sodipodi:role="line">08</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(176.80915,-44.582355)"
+           id="g1593-1">
+          <path
+             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -176.55872,187.82079 v 66.42373 h 147.49915 v -66.42373 z"
+             id="rect11381-3-1"
+             inkscape:connector-curvature="0" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
+             x="-172.63451"
+             y="213.84874"
+             id="text11379-5-5"><tspan
+               sodipodi:role="line"
+               x="-172.63451"
+               y="213.84874"
+               style="font-weight:bold;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan11385-6-98">MARSHAL</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:12.34030914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.30850771"
+             x="-103.20985"
+             y="231.62633"
+             id="text11379-9-2-4"><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="231.62633"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan11419-1-8">FAR END</tspan></text>
+        </g>
+      </g>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer9"
        inkscape:label="07 - Timekeeper #2"
-       style="display:inline">
+       style="display:none">
       <g
          style="display:inline"
          id="g2134-3">
@@ -1853,7 +2629,7 @@
         <g
            id="g2122-9">
           <path
-             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              d="m 0.25042948,143.92846 v 66.42373 H 147.74957 v -66.42373 z"
              id="rect11381-0-3-3"
              inkscape:connector-curvature="0" />
@@ -1863,16 +2639,16 @@
              x="73.358521"
              y="168.80927"
              id="text11379-6-1-9"><tspan
-               id="tspan1751-8"
                sodipodi:role="line"
                x="73.358521"
                y="168.80927"
-               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875">TIME</tspan><tspan
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               id="tspan2185">TIME</tspan><tspan
                sodipodi:role="line"
                x="73.358521"
                y="200.1337"
                style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
-               id="tspan2183">KEEPER</tspan></text>
+               id="tspan2191">KEEPER</tspan></text>
         </g>
       </g>
     </g>
@@ -2007,7 +2783,12 @@
                x="-103.20985"
                y="231.62633"
                style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
-               id="tspan11419-1-7">MIDLAND HOTEL</tspan></text>
+               id="tspan11419-1-7">MIDLAND</tspan><tspan
+               sodipodi:role="line"
+               x="-103.20985"
+               y="247.05171"
+               style="font-weight:bold;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.30850771"
+               id="tspan2205">HOTEL</tspan></text>
         </g>
       </g>
     </g>
@@ -2048,7 +2829,7 @@
            transform="translate(0,-87.000006)"
            style="display:inline">
           <path
-             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              d="M 0.25042896,230.92847 V 297.3522 H 147.74957 v -66.42373 z"
              id="rect11381-0-3-7-4"
              inkscape:connector-curvature="0" />
@@ -2061,12 +2842,12 @@
                sodipodi:role="line"
                x="73.094528"
                y="256.95642"
-               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#c8b7b7;fill-opacity:1;stroke-width:0.62648875"
                id="tspan1842-4">TAIL</tspan><tspan
                sodipodi:role="line"
                x="73.094528"
                y="288.28085"
-               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
+               style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#c8b7b7;fill-opacity:1;stroke-width:0.62648875"
                id="tspan1905">WALKER</tspan></text>
         </g>
       </g>
@@ -2108,7 +2889,7 @@
            transform="translate(0,-87.000006)"
            style="display:inline">
           <path
-             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
              d="M 0.25042896,230.92847 V 297.3522 H 147.74957 v -66.42373 z"
              id="rect11381-0-3-7"
              inkscape:connector-curvature="0" />
@@ -2127,7 +2908,7 @@
                x="73.094528"
                y="288.28085"
                style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
-               id="tspan1842">TOKENS #1</tspan></text>
+               id="tspan1842">TOKENS</tspan></text>
         </g>
       </g>
     </g>
@@ -2200,7 +2981,7 @@
              inkscape:connector-curvature="0"
              id="path1565"
              d="M 0.25042896,230.92847 V 297.3522 H 147.74957 v -66.42373 z"
-             style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+             style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              id="text1571"
              y="256.95642"
@@ -2278,23 +3059,23 @@
            inkscape:connector-curvature="0"
            id="rect11381-0"
            d="M 0.25042896,230.92847 V 297.3522 H 147.74957 v -66.42373 z"
-           style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;stroke:#c1fe03;stroke-width:0.67566746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text
            id="text11379-6"
            y="256.95642"
            x="73.094528"
            style="font-style:normal;font-weight:normal;font-size:25.05954933px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a1a1a1;fill-opacity:1;stroke:none;stroke-width:0.62648875"
            xml:space="preserve"><tspan
-             id="tspan11385-2"
              style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
              y="256.95642"
              x="73.094528"
-             sodipodi:role="line">TIME</tspan><tspan
-             id="tspan1469-6"
+             sodipodi:role="line"
+             id="tspan2195">TIME</tspan><tspan
              style="font-weight:bold;font-size:19.75555611px;text-align:center;text-anchor:middle;fill:#a1a1a1;fill-opacity:1;stroke-width:0.62648875"
              y="288.28085"
-             x="73.094528"
-             sodipodi:role="line">KEEPER</tspan></text>
+             x="76.528603"
+             sodipodi:role="line"
+             id="tspan2199">KEEPER </tspan></text>
       </g>
       <g
          transform="matrix(0.97815471,0,0,0.97815471,-113.58241,58.23625)"
